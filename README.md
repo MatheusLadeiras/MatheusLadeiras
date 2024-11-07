@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Matheus
 
-<!--
-**MatheusLadeiras/MatheusLadeiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m an novice programmer from Brazil.
+- I’m studing Information Systems at UNIRIO.  
+- I’m studing Computer Science at Anhembi Morumbi.
+- I’m a fan of videogame and books in my free time.
+- I’m currently learning more about OO and java.
+- I’m currently working on a Elevator Simulator.
+- 
+You may find me at:
+- linkedin.com/in/matheus-ladeiras
+- matheus.ladeiras@gmail.com
