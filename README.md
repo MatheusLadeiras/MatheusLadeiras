@@ -8,5 +8,5 @@
 - I’m currently working on a Elevator Simulator.
   
 You may find me at:
-- linkedin.com/in/matheus-ladeiras
+- [linkedin.com/in/matheus-ladeiras](https://linkedin.com/in/matheus-ladeiras)
 - matheus.ladeiras@gmail.com
