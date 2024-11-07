@@ -6,7 +6,7 @@
 - I’m a fan of videogame and books in my free time.
 - I’m currently learning more about OO and java.
 - I’m currently working on a Elevator Simulator.
-- 
+  
 You may find me at:
 - linkedin.com/in/matheus-ladeiras
 - matheus.ladeiras@gmail.com
