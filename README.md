@@ -5,7 +5,7 @@
 - I’m studing Computer Science at Anhembi Morumbi.
 - I’m a fan of videogames, ttRPG and books in my free time.
 - I’m currently learning more about OO and java.
-- I’m currently working on a Elevator Simulator.
+- I’m currently working on a Elevator Simulator in java.
 
 ## You may find me at
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/matheus-ladeiras) 
